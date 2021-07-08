@@ -1,3 +1,4 @@
+[GIS Final Presentation.pdf](https://github.com/stfran22/vacancy-blight-crime-detroit/files/6780801/GIS.Final.Presentation.pdf)
 # vacancy-blight-crime-detroit
 
 For my Fundamentals of GIS final project, I made a series of maps using ArcGIS desktop to show the links between vacancy rates, crime, and blight violations in the city of Detroit. My inspiration for exploring these relationships stems from a study conducted by [Branas et al.](https://www.pnas.org/content/115/12/2946), which concluded that when vacant lots are cleaned up and made more presentable, crime in those areas decrease. The study, carried out in Philadelphia, also found that crime did not just get pushed out to adjacent neighborhoods after the cleanups. Based on this as well as an awareness of the vacancy issues in Detroit, I decided to make maps that would show the most vulnerable neighborhoods in the city in order to target them for vacant house and lot cleanups. 
